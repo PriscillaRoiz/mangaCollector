@@ -1,0 +1,66 @@
+{
+    "kind": "books#volumes",
+    "totalItems": 1,
+    "items": [{
+        "kind": "books#volume",
+        "id": "beSP5CCpiGUC",
+        "etag": "cNL3l6PTv24",
+        "selfLink": "https://www.googleapis.com/books/v1/volumes/beSP5CCpiGUC",
+        "volumeInfo": {
+            "title": "The 1989 World Book year book",
+            "subtitle": "a review of the events of 1988 ; the annual supplement to the World book encyclopedia",
+            "authors": [
+                "Robert O. Zeleny"
+            ],
+            "publishedDate": "1989-02-01",
+            "industryIdentifiers": [{
+                    "type": "ISBN_10",
+                    "identifier": "0716604892"
+                },
+                {
+                    "type": "ISBN_13",
+                    "identifier": "9780716604891"
+                }
+            ],
+            "readingModes": {
+                "text": false,
+                "image": false
+            },
+            "pageCount": 576,
+            "printType": "BOOK",
+            "categories": [
+                "Reference"
+            ],
+            "contentVersion": "preview-1.0.0",
+            "imageLinks": {
+                "smallThumbnail": "http://bks8.books.google.co.uk/books?id=beSP5CCpiGUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                "thumbnail": "http://bks8.books.google.co.uk/books?id=beSP5CCpiGUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+            },
+            "language": "en",
+            "previewLink": "http://books.google.co.uk/books?id=beSP5CCpiGUC&dq=isbn:0716604892&hl=&cd=1&source=gbs_api",
+            "infoLink": "http://books.google.co.uk/books?id=beSP5CCpiGUC&dq=isbn:0716604892&hl=&source=gbs_api",
+            "canonicalVolumeLink": "http://books.google.co.uk/books/about/The_1989_World_Book_year_book.html?hl=&id=beSP5CCpiGUC"
+        },
+        "saleInfo": {
+            "country": "GB",
+            "saleability": "NOT_FOR_SALE",
+            "isEbook": false
+        },
+        "accessInfo": {
+            "country": "GB",
+            "viewability": "NO_PAGES",
+            "embeddable": false,
+            "publicDomain": false,
+            "textToSpeechPermission": "ALLOWED",
+            "epub": {
+                "isAvailable": false
+            },
+            "pdf": {
+                "isAvailable": false
+            },
+            "webReaderLink": "http://books.google.co.uk/books/reader?id=beSP5CCpiGUC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+            "accessViewStatus": "NONE",
+            "quoteSharingAllowed": false
+        }
+    }]
+}
