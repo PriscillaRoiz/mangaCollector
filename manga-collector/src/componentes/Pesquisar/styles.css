@@ -1,0 +1,27 @@
+.search-form {
+    width: 70%;
+    margin: 150px auto;
+    padding: 20px;
+    border: solid gray 1px;
+    text-align: center;
+}
+
+.group-label {
+    display: flex;
+    margin: 10px;
+    width: 70%;
+    justify-content: space-between;
+}
+
+.resultado {
+    width: 550px;
+    align-items: center;
+    justify-content: center;
+    background-Color: rgb(218, 218, 218);
+    padding: 20px,15px;
+    border-Radius: 5px;
+    margin-Bottom: 15px;
+    margin-top: 20px;
+    font-Size: 16px;
+}
+
